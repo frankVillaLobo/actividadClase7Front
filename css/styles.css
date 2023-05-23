@@ -1,0 +1,28 @@
+h1 {
+	color: #005677;
+	background-color: #c4c4c4;
+	margin-bottom: 100px;
+}
+
+h2 {
+	color: #005677;
+	background-color: #c4c4c4;
+}
+
+#footer {
+	text-align: center;
+	background-color: #005677;
+	color: white;
+}
+
+header {
+	text-align: center;
+}
+
+.span {
+	font-weight: bold;
+}
+
+#ultimoP {
+	margin-bottom: 100px;
+}
